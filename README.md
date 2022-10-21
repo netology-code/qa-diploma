@@ -47,8 +47,8 @@
 Само приложение расположено в файле [`aqa-shop.jar`](aqa-shop.jar) и запускается стандартным способом `java -jar aqa-shop.jar` на порту 8080.
 
 В файле [`application.properties`](application.properties) приведён ряд типовых настроек:
-* учётные данные и url для подключения к СУБД;
-* url-адреса банковских сервисов.
+* учётные данные и URL для подключения к СУБД;
+* URL-адреса банковских сервисов.
 
 ### СУБД
 
@@ -57,7 +57,7 @@
 * MySQL;
 * PostgreSQL.
 
-Учётные данные и url для подключения задаются в файле [`application.properties`](application.properties).
+Учётные данные и URL для подключения задаются в файле [`application.properties`](application.properties).
 
 ### Банковские сервисы
 
